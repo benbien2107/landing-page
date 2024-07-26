@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #000000;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #000000;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #000000;
 		}
 
 /* Image */
@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #2c2c2c;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2497,7 +2497,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef5e4a !important;
+				background-color: #636363 !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2505,7 +2505,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #eb341c !important;
+				background-color: #c2c2c2 !important;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2817,8 +2817,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			background-color: #f0f0f0;
+			color: #1f1f1f;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2826,7 +2826,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #0a0a0a;
 			}
 
 			.wrapper.style1 hr {
@@ -3976,7 +3976,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(37, 37, 37, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
